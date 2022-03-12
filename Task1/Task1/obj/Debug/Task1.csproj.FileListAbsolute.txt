@@ -1,0 +1,9 @@
+/Users/noeldiaz/Projects/Task1/Task1/bin/Debug/Task1.exe
+/Users/noeldiaz/Projects/Task1/Task1/bin/Debug/Task1.pdb
+/Users/noeldiaz/Projects/Task1/Task1/obj/Debug/Task1.csproj.AssemblyReference.cache
+/Users/noeldiaz/Projects/Task1/Task1/obj/Debug/Task1.csproj.CoreCompileInputs.cache
+/Users/noeldiaz/Projects/Task1/Task1/obj/Debug/Task1.exe
+/Users/noeldiaz/Projects/Task1/Task1/obj/Debug/Task1.pdb
+/Users/noeldiaz/Projects/Task1/Task1/bin/Debug/Newtonsoft.Json.dll
+/Users/noeldiaz/Projects/Task1/Task1/bin/Debug/Newtonsoft.Json.xml
+/Users/noeldiaz/Projects/Task1/Task1/obj/Debug/Task1.csproj.CopyComplete
