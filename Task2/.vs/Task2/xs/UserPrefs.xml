@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2E9FDEC3-0578-439A-9F4D-C974B95CD4DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task2/TaxSystem/ResultSets.cs">
+    <Files>
+      <File FileName="Task2/Program.cs" Line="28" Column="44" />
+      <File FileName="Task2/TaxSystem.cs" Line="17" Column="51" />
+      <File FileName="Task2/Tax.cs" Line="20" Column="31" />
+      <File FileName="Task2/ResultSet.cs" Line="23" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task2" expanded="True">
+            <Node name="Task2" expanded="True">
+              <Node name="TaxSystem" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
