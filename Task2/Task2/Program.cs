@@ -12,7 +12,7 @@ namespace Task2
             /**
              * Adding Taxes
              * Add more taxes using TaxSystem.AddTax()
-             * taxSystem.AddTax(taxPercent, Threshold); OR  taxSystem.AddTax(taxPercent, Threshold, MaxIncomeToConsider)
+             * taxSystem.AddTax(name, taxPercent, Threshold); OR  taxSystem.AddTax(name, taxPercent, Threshold, MaxIncomeToConsider)
              */
             //Income tax of 10% is incurred to the excess (amount above 1000).
             taxSystem.AddTax("Income Tax", 10, 1000);
