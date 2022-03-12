@@ -3,6 +3,7 @@
 ## Task1
 #### Screenshot:
 
+<img width="723" alt="task1" src="https://user-images.githubusercontent.com/29879453/158009508-e9e673c4-fe3e-4c66-a890-e1686a5f1897.png">
 
 ## Task2
 #### Adding Taxes
@@ -20,6 +21,7 @@ taxSystem.AddTax("Additional Tax", 25, 800, 2000);
 ```
 #### Screenshot:
 
+<img width="907" alt="task2" src="https://user-images.githubusercontent.com/29879453/158009518-7709de2a-4c4f-4bbb-8382-b96c79aba6ed.png">
 
 ## Task3
 Provided with a recursive function(getDescendants) that given a DOM element will return an array that contains the element itself and all its descendants.
@@ -34,3 +36,7 @@ getDescendants(document.getElementById('bottomMenu'))
 ```
 
 #### Screenshot:
+
+<img width="709" alt="task3" src="https://user-images.githubusercontent.com/29879453/158009528-5a7a1c52-b04b-40a3-a587-93c4599e2005.png">
+
+
