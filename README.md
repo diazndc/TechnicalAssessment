@@ -37,6 +37,6 @@ getDescendants(document.getElementById('bottomMenu'))
 
 #### Screenshot:
 
-<img width="709" alt="task3" src="https://user-images.githubusercontent.com/29879453/158009528-5a7a1c52-b04b-40a3-a587-93c4599e2005.png">
+<img width="516" alt="Screen Shot 2022-03-12 at 4 03 18 AM" src="https://user-images.githubusercontent.com/29879453/158009641-9cf3975a-d63c-4c53-b0d3-8dfa73357fc0.png">
 
 
